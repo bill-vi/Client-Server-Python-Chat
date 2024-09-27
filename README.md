@@ -1,4 +1,4 @@
-# Client-Server Python Chat
+![image](https://github.com/user-attachments/assets/aaab3463-c213-4b29-b56f-2072fce17a15)# Client-Server Python Chat
 
 Este programa implementa un chat básico utilizando Python, basado en un modelo cliente-servidor. El sistema permite a múltiples usuarios conectarse y comunicarse en tiempo real.
 
@@ -48,3 +48,6 @@ El programa está dividido en dos archivos:
 1. Inicia el servidor ejecutando `server.py`.
 2. Inicia uno o más clientes ejecutando `client.py` en diferentes terminales.
 3. Los usuarios pueden comunicarse entre sí y desconectarse escribiendo "salir".
+
+![image](https://github.com/user-attachments/assets/6e95703f-b48a-48fb-8799-3c8bb829eef4)
+
